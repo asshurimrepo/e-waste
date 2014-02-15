@@ -11,7 +11,14 @@
 |
 */
 
-Route::get('/', function()
-{
-	return View::make('hello');
-});
+
+
+// Route::resource('internets', 'InternetsController');
+
+// Route::resource('services', 'ServicesController');
+
+// Route::resource('managements', 'ManagementsController');
+
+// Route::resource('categories', 'CategoriesController');
+
+// Route::resource('techniques', 'TechniquesController');
