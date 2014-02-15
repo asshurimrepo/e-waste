@@ -1,0 +1,1329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Redire",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"req",
+				"req_form"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"next",
+				"next_route"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"cho",
+				"choose_encoder"
+			],
+			[
+				"belos",
+				"belongsToMany"
+			],
+			[
+				"document",
+				"document_id"
+			],
+			[
+				"group",
+				"groupItems"
+			],
+			[
+				"orde",
+				"orderBy"
+			],
+			[
+				"require",
+				"requirement"
+			],
+			[
+				"docu",
+				"document"
+			],
+			[
+				"documen",
+				"document_id"
+			],
+			[
+				"re",
+				"requirements"
+			],
+			[
+				"pivo",
+				"pivot_data"
+			],
+			[
+				"foreah",
+				"foreach	foreach …"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"IN",
+				"Input-all	Input-all"
+			],
+			[
+				"new",
+				"new_group"
+			],
+			[
+				"pre",
+				"prepend	.prepend"
+			],
+			[
+				"belo",
+				"belongsTo"
+			],
+			[
+				"Inp",
+				"Input-only	Input-only"
+			],
+			[
+				"level",
+				"level_id"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"bu",
+				"buyer_location"
+			],
+			[
+				"sale",
+				"sale_details"
+			],
+			[
+				"labe",
+				"labels"
+			],
+			[
+				"upda",
+				"updatedDocs"
+			],
+			[
+				"Input",
+				"Input-has	Input-has"
+			],
+			[
+				"I",
+				"Input-except	Input-except"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"Redirec",
+				"Redirect-back	Redirect-back"
+			],
+			[
+				"Redirect",
+				"Redirect-intended	Redirect-intended"
+			],
+			[
+				"Redir",
+				"Redirect-away	Redirect-away"
+			],
+			[
+				"Auth",
+				"Auth-user	Auth-user"
+			],
+			[
+				"form",
+				"form_login2"
+			],
+			[
+				"form_",
+				"form_login"
+			],
+			[
+				"VIew",
+				"View-make	View-make"
+			],
+			[
+				"Sess",
+				"Session-forget	Session-forget"
+			],
+			[
+				"Session",
+				"Session-put	Session-put"
+			],
+			[
+				"getMar",
+				"getMarkDone"
+			],
+			[
+				"doc",
+				"documents"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"belon",
+				"belongsToMany"
+			],
+			[
+				"Ha",
+				"Hash-make	Hash-make"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"c",
+				"cellpadding	Attr"
+			],
+			[
+				"cust",
+				"custno"
+			],
+			[
+				"cal",
+				"classification"
+			],
+			[
+				"clas",
+				"classification"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"cus",
+				"cust"
+			],
+			[
+				"mys",
+				"mysql_error"
+			],
+			[
+				"cu",
+				"cust"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"com",
+				"Snippet: blade-comment"
+			],
+			[
+				"comme",
+				"Snippet: blade-comment"
+			],
+			[
+				"blade com",
+				"Snippet: blade-comment"
+			],
+			[
+				"commen",
+				"Snippet: blade-comment"
+			],
+			[
+				"blade comm",
+				"Snippet: blade-comment"
+			],
+			[
+				"laravel",
+				"Laravel Artisan: Workbench"
+			],
+			[
+				"artisan",
+				"Laravel Artisan: Changes"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"package  Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"model",
+				"Laravel Generate: Model"
+			],
+			[
+				"routes",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"resource",
+				"Laravel Generate: Resource"
+			],
+			[
+				"route",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"control",
+				"Laravel Generate: Controller"
+			],
+			[
+				"view",
+				"Laravel Generate: View"
+			],
+			[
+				"controll",
+				"Laravel Generate: Controller"
+			],
+			[
+				"con",
+				"Laravel Generate: Controller"
+			],
+			[
+				"contro",
+				"Laravel Generate: Controller"
+			],
+			[
+				"mod",
+				"Laravel Generate: Model"
+			],
+			[
+				"migra",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"migrate",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"mode",
+				"Laravel Generate: Model"
+			],
+			[
+				"MIGRATE",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"migrat",
+				"Laravel Generate: Migration"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"folder",
+				"Project: Add Folder"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"contr",
+				"Snippet: Route-controller"
+			],
+			[
+				"cont",
+				"Snippet: Route-controllers"
+			],
+			[
+				"goru",
+				"Snippet: Route-group"
+			],
+			[
+				"comment",
+				"Snippet: blade-comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"auto",
+				"Laravel Artisan: Dump Autoload"
+			],
+			[
+				"set syntex bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"balde",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"resour",
+				"Laravel Generate: Resource"
+			],
+			[
+				"set syntax: Bla",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"rou",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"resoure",
+				"Laravel Generate: Resource"
+			],
+			[
+				"request",
+				"Snippet: REQUEST['…']"
+			],
+			[
+				"mig",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"migr",
+				"Laravel Generate: Migration"
+			],
+			[
+				"migrae",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"miga",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"igra",
+				"Laravel Generate: Migration"
+			],
+			[
+				"seed",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"m",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"migratio",
+				"Laravel Generate: Migration"
+			],
+			[
+				"ke",
+				"Laravel Artisan: Key: Generate"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/examples/SimpleDebuggableConnection.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/lib/swift_init.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Student.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/documents/create.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/alert.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/bin/boris",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Document.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/DocReq.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/database/seeds/DocumentsTableSeeder.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/DocumentsController.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/manage/dashboard.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Req.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/application/views/admin/manage_noticeboard.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/master.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/admin/index.blade.php",
+		"/C/Users/Win 8/Downloads/riverton_landing_page/riverton_landing_page/fonts/web fonts/ashbury_medium_macroman/stylesheet.css",
+		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/page-grand-opening.php",
+		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/page-planning-ahead.php",
+		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/ManageController.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Level.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/User.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/manage/request.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Requirement.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/composer.json",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/lib/Predis/Option/ClientOptions.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/admin/request.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/RequestItem.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/mustache/mustache/src/Mustache/Exception/LogicException.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Label.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions/ReturnValueAction.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Expression/ValueInterface.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/d11wtq/boris/lib/Boris/EvalWorker.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Config/EnvironmentVariables.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/eregistrar.sublime-project",
+		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/system/database/DB_cache.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MockArraySessionStorage.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/application/views/admin/manage_accountant.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/mail.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Database/MySqlConnection.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/examples/MultipleSetAndGet.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/admin.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/AdminController.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test",
+		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/application/views/admin/view_report.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/neon.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/WindowsController.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/create.blade.php",
+		"/C/Program Files (x86)/Ampps/www/neon/neon/ui/panels/index.html",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/database/seeds/WindowsTableSeeder.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/withdoctype.xml",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/show.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/manage/requesttable.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/routes.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/filters.php",
+		"/C/Program Files (x86)/Ampps/www/noph/includes/config.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/special_route_name.yml",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Expectations/AtLeastExpectation.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Foundation/AliasLoader.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/artisan",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Exception/ExceptionDisplayerInterface.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down.txt",
+		"/C/Program Files (x86)/Ampps/www/cjrc/public/neon-x/assets/js/neon-login.js",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/doc/component/Lexer.markdown",
+		"/C/Program Files (x86)/Ampps/www/cjrc/public/neon-x/assets/js/jvectormap/jquery-jvectormap-us-ny-newyork-mill-en.js",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/ircmaxell/password-compat/test/Unit/PasswordNeedsRehashTest.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/doc/japanese.rst",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Adapter/PhpAdapter.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/phpunit.xml",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/simpletest.org/test/package/one_section_with_autorum_php.xml",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Exception/OperationNotPermitedException.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/composer/autoload_namespaces.php",
+		"/C/Program Files (x86)/Ampps/www/neon/neon/tables/datatable/index.html",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Iterator/FilterIterator.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/docs/source/en/unit_test_documentation.xml",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nesbot/carbon/tests/DayOfWeekModifiersTest.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/database.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/lib/Predis/ResponseError.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/README.md",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nesbot/carbon/tests/SubTest.php",
+		"/C/Program Files (x86)/Ampps/www/neon/neon-x/assets/js/dataTables.bootstrap.js",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/definition_astext.txt",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nesbot/carbon/tests/DiffTest.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/form_with_false_defaults.html",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/form_with_unnamed_submit.html",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/themes/neon/sidebar-menu.blade.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/server.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheWarmer/WarmableInterface.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/workbench.php",
+		"/C/Program Files (x86)/Ampps/www/neon/neon-x/assets/js/neon-custom.js",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/lib/PHPParser/Node/Stmt/Static.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/bootstrap/start.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/remote.php",
+		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/lib/Predis/Command/SetRemove.php",
+		"/c/users/win8~1/appdata/local/temp/sublime-svn-1391738507/SVN",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Window.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/admin/word_filter.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/jquery/swfupload/fileprogress.js",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/includes/functions_integration.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/language/english/mails/sale_seller_notification.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/buy_out.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/blog-user.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/bid.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/language/english/mails/seller_relist_notification_multiple.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/sell_item.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/search.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/members_area.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/templates/members_area_bidding_invoices_received.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/blog/wp-mail.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/templates/content_page_multiple.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/pasture_roadtwo/templates/auction_details_new.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/includes/config.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/templates/members_area_messaging_received.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/blog/wp-admin/ms-edit.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/make_offer.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/auction_details_new.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/auction_details.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/pasture_roadtwo/templates/auction_details.tpl_original.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/pasture_roadtwo/templates/auction_details.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/modern_silver/templates/auction_details.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/modern_blue/templates/auction_details.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/classic_silver/templates/auction_details.tpl.php",
+		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/classic_blue/templates/auction_details.tpl.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Program Files (x86)\\Ampps\\www\\pastureroad",
+			"C:\\xampp\\htdocs\\waterDistrict"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ahead",
+			"page-planning",
+			"				\n",
+			"checkIf",
+			"number_of_requirements",
+			"sample-moda",
+			"has_fd_access",
+			"$buyer",
+			"Sold Items",
+			"messaging",
+			"aboutme_",
+			"todo",
+			"TASk",
+			"todo",
+			"task",
+			"Datatable",
+			"username",
+			"database",
+			"?></",
+			"login-page",
+			"hi",
+			"login-form",
+			"login-content",
+			"#form_login",
+			"btn-login",
+			"requirements",
+			"$res",
+			"requirements",
+			"$req",
+			"documents",
+			"$doc",
+			"<a href=\"entry.php\">Entry</a>",
+			"<a href=\"add.php\">Add</a>",
+			"table",
+			"<td><a href=\"message.php\">Message</a></td>\n        <td><a href=\"entry.php\">Entry</a></td>\n        <td><a href=\"add.php\">Add</a></td>\n        <td><a href=\"search.php\">Search</a></td>",
+			"<td><a href=\"message.php\">Message</a></td>\n            <td><a href=\"entry.php\">Entry</a></td>\n            <td><a href=\"add.php\">Add</a></td>\n<td><a href=\"message.php\">Message</a></td>\n            <td><a href=\"entry.php\">Entry</a></td>\n            <td><a href=\"add.php\">Add</a></td>\n<td><a href=\"message.php\">Message</a></td>\n            <td><a href=\"entry.php\">Entry</a></td>\n            <td><a href=\"add.php\">Add</a></td>\n            <td><a href=\"search.php\">Search</a></td>",
+			"<td><a href=\"message.php\">Message</a></td>\n            <td><a href=\"entry.php\">Entry</a></td>\n            <td><a href=\"add.php\">Add</a></td>\n<td><a href=\"message.php\">Message</a></td>\n            <td><a href=\"entry.php\">Entry</a></td>\n            <td><a href=\"add.php\">Add</a></td>\n            <td><a href=\"search.php\">Search</a></td>",
+			"<td><a href=\"message.php\">Message</a></td>\n        <td><a href=\"entry.php\">Entry</a></td>\n        <td><a href=\"add.php\">Add</a></td>\n        <td><a href=\"search.php\">Search</a></td>",
+			"<td><a href=\"message.php\">Message</a></td>\n<td><a href=\"entry.php\">Entry</a></td>\n<td><a href=\"add.php\">Add</a></td>\n<td><a href=\"search.php\">Search</a></td>",
+			"back",
+			"entry.php",
+			"form",
+			"charge",
+			"charge:",
+			"Update",
+			"add entry",
+			"1",
+			"type",
+			"Classification",
+			"classifcation"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$seller",
+			"reasons",
+			"$r",
+			"reasons",
+			"$res",
+			"requirements",
+			"$req",
+			"<a href=\"entry.php\">Bill Entry</a>",
+			"<a href=\"add.php\">Add Customer</a>",
+			"<td><a href=\"add.php\">Add</a></td>\n        <td><a href=\"entry.php\">Entry</a></td>\n   <td><a href=\"message.php\">Message</a></td>\n        <td><a href=\"search.php\">Search</a></td>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 426.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "e-wate.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"side",
+				"cjrc\\app\\views\\themes\\neon\\sidebar-menu.blade.php"
+			],
+			[
+				"neon",
+				"cjrc\\app\\views\\neon.blade.php"
+			],
+			[
+				"admincon",
+				"cjrc\\app\\controllers\\AdminController.php"
+			],
+			[
+				"admin.",
+				"cjrc\\app\\views\\admin.blade.php"
+			],
+			[
+				"documentsco",
+				"cjrc\\app\\controllers\\DocumentsController.php"
+			],
+			[
+				"documents/edi",
+				"cjrc\\app\\views\\documents\\edit.blade.php"
+			],
+			[
+				"documents/",
+				"cjrc\\app\\views\\documents\\create.blade.php"
+			],
+			[
+				"level",
+				"cjrc\\app\\models\\Level.php"
+			],
+			[
+				"manage/requ",
+				"cjrc\\app\\views\\manage\\request.blade.php"
+			],
+			[
+				"manage",
+				"cjrc\\app\\controllers\\ManageController.php"
+			],
+			[
+				"composer",
+				"cjrc\\composer.json"
+			],
+			[
+				"request.",
+				"cjrc\\app\\views\\admin\\request.blade.php"
+			],
+			[
+				"document",
+				"cjrc\\app\\models\\Document.php"
+			],
+			[
+				"master",
+				"cjrc\\app\\views\\master.blade.php"
+			],
+			[
+				"docre",
+				"cjrc\\app\\models\\DocReq.php"
+			],
+			[
+				"docreq",
+				"cjrc\\app\\models\\DocReq.php"
+			],
+			[
+				"filter",
+				"cjrc\\app\\filters.php"
+			],
+			[
+				"routes",
+				"cjrc\\app\\routes.php"
+			],
+			[
+				"req",
+				"cjrc\\app\\models\\Req.php"
+			],
+			[
+				"docume",
+				"cjrc\\app\\models\\Document.php"
+			],
+			[
+				"alert",
+				"cjrc\\app\\views\\alert.blade.php"
+			],
+			[
+				"window/ind",
+				"cjrc\\app\\views\\windows\\index.blade.php"
+			],
+			[
+				"window",
+				"cjrc\\app\\controllers\\WindowsController.php"
+			],
+			[
+				"window/",
+				"cjrc\\app\\views\\windows\\create.blade.php"
+			],
+			[
+				"panels/",
+				"neon\\neon\\ui\\panels\\index.html"
+			],
+			[
+				"window/sho",
+				"cjrc\\app\\views\\windows\\show.blade.php"
+			],
+			[
+				"docunm",
+				"cjrc\\app\\models\\Document.php"
+			],
+			[
+				"student",
+				"cjrc\\app\\models\\Student.php"
+			],
+			[
+				"datatable",
+				"neon\\neon\\tables\\datatable\\index.html"
+			],
+			[
+				"windowc",
+				"cjrc\\app\\controllers\\WindowsController.php"
+			],
+			[
+				"window/show",
+				"cjrc\\app\\views\\windows\\show.blade.php"
+			],
+			[
+				"stude",
+				"cjrc\\app\\models\\Student.php"
+			],
+			[
+				"window/i",
+				"app\\views\\windows\\index.blade.php"
+			],
+			[
+				"windo",
+				"app\\models\\Window.php"
+			],
+			[
+				"filte",
+				"app\\filters.php"
+			],
+			[
+				"route",
+				"app\\routes.php"
+			],
+			[
+				"buyer_",
+				"language\\english\\mails\\sale_buyer_notification.php"
+			],
+			[
+				"members_area_messaging_received.tpl.php",
+				"templates\\members_area_messaging_received.tpl.php"
+			],
+			[
+				"members_a",
+				"members_area.php"
+			],
+			[
+				"config",
+				"includes\\config.php"
+			],
+			[
+				"auction_details_new",
+				"themes\\pasture_roadtwo\\templates\\auction_details_new.tpl.php"
+			],
+			[
+				"auction_detials",
+				"auction_details_new.tpl.php"
+			],
+			[
+				"multipl",
+				"templates\\content_page_multiple.tpl.php"
+			],
+			[
+				"neon-custom",
+				"neon\\neon-x\\assets\\js\\neon-custom.js"
+			],
+			[
+				"main/",
+				"neon\\neon\\dashboard\\main\\index.html"
+			],
+			[
+				"main/in",
+				"neon\\neon\\dashboard\\main\\index.html"
+			],
+			[
+				"dashboard.",
+				"norsu-registrar\\app\\views\\manage\\dashboard.blade.php"
+			],
+			[
+				"user",
+				"norsu-registrar\\app\\models\\User.php"
+			],
+			[
+				"datatable/",
+				"neon\\neon\\tables\\datatable\\index.html"
+			],
+			[
+				"profile-info",
+				"app\\views\\themes\\neon\\profile-info.blade.php"
+			],
+			[
+				"dash",
+				"app\\views\\manage\\dashboard.blade.php"
+			],
+			[
+				"dashboard",
+				"neon\\neon\\dashboard\\main\\index.html"
+			],
+			[
+				"neon.ba",
+				"e-registrar\\app\\views\\neon.blade.php"
+			],
+			[
+				"authcon",
+				"e-registrar\\app\\controllers\\AuthController.php"
+			],
+			[
+				"frond",
+				"e-registrar\\app\\controllers\\FrontdesksController.php"
+			],
+			[
+				"fil",
+				"e-registrar\\app\\filters.php"
+			],
+			[
+				"filt",
+				"e-registrar\\app\\filters.php"
+			],
+			[
+				"model/user",
+				"e-registrar\\app\\models\\User.php"
+			],
+			[
+				"404.html",
+				"neon\\neon\\extra\\404\\index.html"
+			],
+			[
+				"neon-login",
+				"e-registrar\\public\\neon-x\\assets\\js\\neon-login.js"
+			],
+			[
+				"neon-login.js",
+				"e-registrar\\public\\neon-x\\assets\\js\\neon-login.js"
+			],
+			[
+				"login.htl",
+				"neon\\neon\\extra\\login\\index.html"
+			],
+			[
+				"login.html",
+				"neon\\neon-x\\extra\\login\\index.html"
+			],
+			[
+				"begin",
+				"app\\views\\app\\begin.blade.php"
+			],
+			[
+				"rout",
+				"app\\routes.php"
+			],
+			[
+				"dt_",
+				"public\\datatables\\js\\DT_bootstrap.js"
+			],
+			[
+				"boot",
+				"public\\bootstrap\\css\\bootstrap.css"
+			],
+			[
+				"aler",
+				"app\\views\\alert.blade.php"
+			],
+			[
+				"datab",
+				"app\\config\\database.php"
+			],
+			[
+				"app.",
+				"app\\config\\app.php"
+			],
+			[
+				"about",
+				"about.php"
+			],
+			[
+				"vi",
+				"videochat.php"
+			],
+			[
+				"sea",
+				"search.php"
+			],
+			[
+				"add",
+				"add.php"
+			],
+			[
+				"admin",
+				"admin.php"
+			],
+			[
+				"lal",
+				"lala.PHP"
+			],
+			[
+				"bill",
+				"billing.php"
+			],
+			[
+				"sear",
+				"search.php"
+			],
+			[
+				"inde",
+				"index.css"
+			],
+			[
+				"hm1",
+				"hm1.php"
+			],
+			[
+				".css",
+				"index.css"
+			],
+			[
+				"vide",
+				"videochat.php"
+			],
+			[
+				"en",
+				"entry.php"
+			],
+			[
+				"mes",
+				"message.php"
+			],
+			[
+				"searc",
+				"search.php"
+			],
+			[
+				"confi",
+				"includes\\config.php"
+			],
+			[
+				"conf",
+				"includes\\config.php"
+			],
+			[
+				"lala",
+				"lala.PHP"
+			],
+			[
+				"hm5",
+				"hm5.php"
+			],
+			[
+				"logou",
+				"logout.php"
+			],
+			[
+				"hom",
+				"home.php"
+			],
+			[
+				"top_",
+				"includes\\top_head.php"
+			],
+			[
+				"login/",
+				"login\\request.php"
+			],
+			[
+				"d_",
+				"includes\\db_func.php"
+			],
+			[
+				"cofig",
+				"includes\\config.php"
+			],
+			[
+				"connec",
+				"login\\inc\\connection.php"
+			],
+			[
+				"check",
+				"check_signin.php"
+			],
+			[
+				"reque",
+				"login\\request.php"
+			],
+			[
+				"ajax",
+				"ajax\\ajaxCalculator.php"
+			],
+			[
+				"videochat",
+				"videochat\\index.html"
+			],
+			[
+				"s",
+				"check_signin.php"
+			],
+			[
+				"print",
+				"print.php"
+			],
+			[
+				"messag",
+				"message.php"
+			],
+			[
+				"edit",
+				"edit.php"
+			],
+			[
+				"ca",
+				"js\\calculator.js"
+			],
+			[
+				"calc",
+				"includes\\calculator.php"
+			],
+			[
+				"db_",
+				"includes\\db_func.php"
+			],
+			[
+				"entry",
+				"entry.php"
+			],
+			[
+				"top",
+				"includes\\top_head.php"
+			],
+			[
+				"dbf",
+				"includes\\db_func.php"
+			],
+			[
+				"ind",
+				"index.css"
+			],
+			[
+				"cal",
+				"includes\\calculator.php"
+			],
+			[
+				"ide",
+				"index.css"
+			],
+			[
+				"aja",
+				"ajax\\ajaxCalculator.php"
+			],
+			[
+				"cacl",
+				"js\\calculator.js"
+			],
+			[
+				"regis",
+				"register.php"
+			],
+			[
+				"sign",
+				"sign_up.php"
+			],
+			[
+				"hm5.",
+				"hm5.php"
+			],
+			[
+				"mess",
+				"message.php"
+			],
+			[
+				"signi",
+				"signin.php"
+			],
+			[
+				"cont",
+				"includes\\cont.php"
+			],
+			[
+				"mea",
+				"message.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
