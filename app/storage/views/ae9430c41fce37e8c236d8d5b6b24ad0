@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	
+	<!-- start: Meta -->
+	<meta charset="utf-8" />
+	<title><?php echo Setting::find(1)->site_name; ?></title>
+	<!-- end: Meta -->
+	
+	<!-- start: Mobile Specific -->
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!-- end: Mobile Specific -->
+	
+	<!-- start: CSS -->
+	<?php echo HTML::style('css/bootstrap.css'); ?>
+	<?php echo HTML::style('css/bootstrap-responsive.css'); ?>
+	<?php echo HTML::style('css/style.css'); ?>
+	<?php echo HTML::style('css/style-responsive.css'); ?>
+	<?php echo HTML::style('http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&subset=latin,cyrillic-ext,latin-ext'); ?>
+	<!-- end: CSS -->
+		
+	<!-- start: Favicon -->
+	<link rel="shortcut icon" href="<?php echo url('img/favicon.ico'); ?>" />
+	<!-- end: Favicon -->
+
+	<?php echo $__env->yieldContent('css'); ?>
+		
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head>
+
+<body>
+
+	<?php /* Body */ ?>
+	<?php echo $__env->yieldContent('body'); ?>
+
+	<!-- start: JavaScript-->
+		<?php echo HTML::script('js/jquery-1.7.2.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery-ui-1.8.21.custom.min.js'); ?>
+
+		<?php echo HTML::script('js/modernizr.js'); ?>
+
+		<?php echo HTML::script('js/bootstrap.js'); ?>
+
+		<?php echo HTML::script('js/jquery.cookie.js'); ?>
+
+		<?php echo HTML::script('js/fullcalendar.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.dataTables.min.js'); ?>
+
+		<?php echo HTML::script('js/excanvas.js'); ?>
+
+		<?php echo HTML::script('js/jquery.flot.js'); ?>
+
+		<?php echo HTML::script('js/jquery.flot.pie.js'); ?>
+
+		<?php echo HTML::script('js/jquery.flot.stack.js'); ?>
+
+		<?php echo HTML::script('js/jquery.flot.resize.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.chosen.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.uniform.min.js'); ?>
+		
+		<?php echo HTML::script('js/jquery.cleditor.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.noty.js'); ?>
+
+		<?php echo HTML::script('js/jquery.elfinder.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.raty.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.iphone.toggle.js'); ?>
+		
+		<?php echo HTML::script('js/jquery.uploadify-3.1.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.gritter.min.j'); ?>
+
+		<?php echo HTML::script('js/jquery.imagesloaded.js'); ?>
+
+		<?php echo HTML::script('js/jquery.imagesloaded.js'); ?>
+
+		<?php echo HTML::script('js/jquery.masonry.min.js'); ?>
+
+		<?php echo HTML::script('js/jquery.knob.modified.js'); ?>
+
+		<?php echo HTML::script('js/jquery.sparkline.min.js'); ?>
+
+		<?php echo HTML::script('js/counter.js'); ?>
+
+		<?php echo HTML::script('js/retina.js'); ?>
+
+		<?php echo HTML::script('js/custom.js'); ?>
+
+
+		<?php echo $__env->yieldContent('js'); ?>
+		
+	<!-- end: JavaScript-->
+	
+</body>
+</html>

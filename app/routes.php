@@ -12,6 +12,26 @@
 */
 
 
+	Route::controller('auth', 'AuthController');
+
+	Route::group(['before'=>'auth'], function(){
+
+
+		Route::resource('internets', 'InternetsController');
+
+		Route::resource('services', 'ServicesController');
+
+		Route::resource('managements', 'ManagementsController');
+
+		Route::resource('categories', 'CategoriesController');
+
+		Route::resource('techniques', 'TechniquesController');
+
+		Route::controller('/', 'MainController');
+
+
+	});
+
 
 // Route::resource('internets', 'InternetsController');
 
