@@ -15,6 +15,7 @@ class AuthController extends BaseController {
 
 	public function postCheck()
 	{
+		// return Input::all();
 		$credentials = [
 			'username'=>Input::get('username'),
 			'password'=>Input::get('password')
