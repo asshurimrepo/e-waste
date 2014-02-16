@@ -5,7 +5,9 @@
 			<div id="sidebar-left" class="span1">
 				<div class="nav-collapse sidebar-nav">
 					<ul class="nav nav-tabs nav-stacked main-menu">
-						<li class="active"><a href="./index.html"><i class="fa-icon-home"></i><span class="hidden-tablet"> Home</span></a></li>	
+					@foreach(Page::orderBy('order')->get() as $page)
+						<li {{ Session::get('active') == $page->route ? 'class="active"' : '' }}><a href="{{ url($page->route) }}"><i class="{{ $page->icon }}"></i><span class="hidden-tablet"> {{ $page->name }}</span></a></li>	
+					@endforeach
 					</ul>
 				</div>
 			</div>
@@ -26,19 +28,9 @@
 			</div><!--/#content.span10-->
 		</div><!--/fluid-row-->
 				
-		<div class="modal hide fade" id="myModal">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal">×</button>
-				<h3>Settings</h3>
-			</div>
-			<div class="modal-body">
-				<p>Here settings can be configured...</p>
-			</div>
-			<div class="modal-footer">
-				<a href="#" class="btn" data-dismiss="modal">Close</a>
-				<a href="#" class="btn btn-primary">Save changes</a>
-			</div>
-		</div>
+
+		@yield('modals')
+
 		
 		<div class="clearfix"></div>
 		

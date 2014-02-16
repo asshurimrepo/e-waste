@@ -2,6 +2,6 @@
 
 @section('c')
 
-	hi
+	<h1><center>Welcome, {{ Auth::user()->fullname() }}</center></h1>
 
 @stop

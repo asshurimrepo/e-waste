@@ -1,3 +1,17 @@
+@section('js')
+	
+	<script type="text/javascript">
+
+		setInterval(udpateTime, 1000);
+
+		function udpateTime(){
+			$(".curr_time").load("{{ url('time') }}");
+		}    
+
+	</script>
+	
+@stop
+
 <!-- start: Header -->
 	<div class="navbar">
 		<div class="navbar-inner">
@@ -15,7 +29,7 @@
 						
 						<li>
 							<a class="btn" href="#">
-								<i class="halflings-icon white time"></i> 10:11 AM, Feb 14, 2014
+								<i class="halflings-icon white time"></i> <b class="curr_time">-</b>
 							</a>
 						</li>
 						<!-- start: User Dropdown -->
@@ -25,7 +39,7 @@
 								<span class="caret"></span>
 							</a>
 							<ul class="dropdown-menu">
-								<li><a href="#"><i class="halflings-icon white user"></i> Profile</a></li>
+								<!-- <li><a href="#"><i class="halflings-icon white user"></i> Profile</a></li> -->
 								<li><a href="{{ url('auth/logout') }}"><i class="halflings-icon white off"></i> Logout</a></li>
 							</ul>
 						</li>

@@ -2,6 +2,11 @@
 
 class InternetsController extends BaseController {
 
+	public function __construct()
+	{
+		Session::put('active', 'internets');
+	}
+
 	/**
 	 * Display a listing of the resource.
 	 *
@@ -9,7 +14,8 @@ class InternetsController extends BaseController {
 	 */
 	public function index()
 	{
-        return View::make('internets.index');
+		$internets = Internet::orderBy('name', 'asc');
+        return View::make('internets.index', compact('internets'));
 	}
 
 	/**
