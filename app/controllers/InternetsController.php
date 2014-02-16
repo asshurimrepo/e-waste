@@ -14,7 +14,7 @@ class InternetsController extends BaseController {
 	 */
 	public function index()
 	{
-		$internets = Internet::orderBy('name', 'asc');
+		$internets = Internet::orderBy('trade_name', 'asc')->get();
         return View::make('internets.index', compact('internets'));
 	}
 
@@ -35,7 +35,12 @@ class InternetsController extends BaseController {
 	 */
 	public function store()
 	{
-		//
+		// return Input::all();
+		$internet_data = Input::except('services');
+		$i = Internet::create($internet_data);
+		$i->services()->sync(Input::get('services'));
+
+		return Redirect::back()->with('suc', 'New Internet Cafe Information has been Added!');
 	}
 
 	/**

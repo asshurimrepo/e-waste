@@ -21,7 +21,7 @@
 
 		Route::resource('services', 'ServicesController');
 
-		Route::resource('managements', 'ManagementsController');
+		Route::resource('internets.managements', 'ManagementsController');
 
 		Route::resource('categories', 'CategoriesController');
 

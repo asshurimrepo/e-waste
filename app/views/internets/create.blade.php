@@ -11,6 +11,14 @@
 
 		<fieldset>
 
+			 {{--Trade Name--}}
+			  <div class="control-group">
+				{{ Form::label('owner', 'Owner Name', ['class'=>'control-label']) }}
+				<div class="controls">
+				  {{ Form::text('owner', null, ['required'=>true, 'class'=>'input-xlarge']) }}
+				</div>
+			  </div>
+
 			  {{--Trade Name--}}
 			  <div class="control-group">
 				{{ Form::label('trade_name', 'Trade Name', ['class'=>'control-label']) }}
@@ -34,6 +42,16 @@
 				{{ Form::label('contact_no', 'Contact Number', ['class'=>'control-label']) }}
 				<div class="controls">
 				  {{ Form::text('contact_no', null, ['required'=>true, 'class'=>'input-xlarge']) }}
+				</div>
+			  </div>
+
+
+			  {{--Services Offered--}}
+			  <div class="control-group">
+				{{ Form::label('services', 'Services Offered', ['class'=>'control-label']) }}
+				<div class="controls">
+				  {{ Form::select('services[]', Service::lists('name','id'), null, ['multiple'=>true, 'required'=>'', 'data-rel'=>'chosen']) }}
+				  
 				</div>
 			  </div>		
 

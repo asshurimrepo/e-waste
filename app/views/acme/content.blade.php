@@ -22,7 +22,8 @@
 			
 			<!-- start: Content -->
 			<div id="content" class="span11">
-				
+			
+				@include('alert')
 				@yield('c')
 
 			</div><!--/#content.span10-->

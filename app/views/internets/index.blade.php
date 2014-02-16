@@ -27,13 +27,13 @@
 								<td class="center">{{ $internet->address }}</td>
 								
 								<td class="center span3">
-									<a class="btn btn-success" href="#">
+									<a class="btn btn-success" href="#" data-rel="tooltip" data-placement="top" data-original-title="View E-waste Management">
 										<i class="halflings-icon zoom-in halflings-icon"></i>  
 									</a>
-									<a class="btn btn-info" href="#">
+									<a class="btn btn-info" href="#" data-rel="tooltip" data-placement="top" data-original-title="Update/Edit">
 										<i class="halflings-icon edit halflings-icon"></i>  
 									</a>
-									<a class="btn btn-danger" href="#">
+									<a class="btn btn-danger delete_btn" href="#" data-rel="tooltip" data-placement="top" data-original-title="Remove Data">
 										<i class="halflings-icon trash halflings-icon"></i> 
 									</a>
 								</td>
