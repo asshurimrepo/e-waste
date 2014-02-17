@@ -17,6 +17,8 @@
 	Route::group(['before'=>'auth'], function(){
 
 
+		Route::controller('reports', 'ReportsController');
+
 		Route::resource('internets', 'InternetsController');
 
 		Route::resource('services', 'ServicesController');
