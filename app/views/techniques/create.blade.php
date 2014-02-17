@@ -4,7 +4,7 @@
 
 	<div class="modal-header">
 		<button type="button" class="close" data-dismiss="modal">×</button>
-		<h3>Add New Technique</h3>
+		<h3>Add New E-Waste Management Technique</h3>
 	</div>
 	<div class="modal-body">
 		
