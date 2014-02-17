@@ -2,6 +2,11 @@
 
 class ServicesController extends BaseController {
 
+	public function __construct()
+	{
+		Session::put('active', 'services');
+	}
+
 	/**
 	 * Display a listing of the resource.
 	 *
@@ -9,7 +14,8 @@ class ServicesController extends BaseController {
 	 */
 	public function index()
 	{
-        return View::make('services.index');
+		$services = Service::all();
+        return View::make('services.index', compact('services'));
 	}
 
 	/**
@@ -29,7 +35,8 @@ class ServicesController extends BaseController {
 	 */
 	public function store()
 	{
-		//
+		Service::create(Input::all());
+		return Redirect::back()->with('suc', 'New Service has been Added!');
 	}
 
 	/**
@@ -73,7 +80,8 @@ class ServicesController extends BaseController {
 	 */
 	public function destroy($id)
 	{
-		//
+		Service::find($id)->delete();
+		return Redirect::back()->with('suc', 'Service has been removed!');
 	}
 
 }
