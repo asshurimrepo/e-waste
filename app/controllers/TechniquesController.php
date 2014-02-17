@@ -2,6 +2,11 @@
 
 class TechniquesController extends BaseController {
 
+	public function __construct()
+	{
+		Session::put('active', 'techniques');
+	}
+
 	/**
 	 * Display a listing of the resource.
 	 *
@@ -9,7 +14,8 @@ class TechniquesController extends BaseController {
 	 */
 	public function index()
 	{
-        return View::make('techniques.index');
+		$techniques = Technique::all();
+        return View::make('techniques.index', compact('techniques'));
 	}
 
 	/**
@@ -29,7 +35,8 @@ class TechniquesController extends BaseController {
 	 */
 	public function store()
 	{
-		//
+		Technique::create(Input::all());
+		return Redirect::back()->with('suc', 'New Technique has been Added!');
 	}
 
 	/**
@@ -73,7 +80,8 @@ class TechniquesController extends BaseController {
 	 */
 	public function destroy($id)
 	{
-		//
+		Technique::find($id)->delete();
+		return Redirect::back()->with('suc', 'Technique has been removed!');
 	}
 
 }
