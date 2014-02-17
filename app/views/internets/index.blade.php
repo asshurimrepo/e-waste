@@ -15,7 +15,7 @@
 						<table class="table table-striped table-bordered bootstrap-datatable datatable">
 						  <thead>
 							  <tr>
-								  <th>Trade Name</th>
+								  <th>Trade Name  </th>
 								  <th>Owner</th>
 								  <th>Contact No.</th>
 								  <th>Address</th>
