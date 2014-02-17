@@ -27,15 +27,21 @@
 								<td class="center">{{ $internet->address }}</td>
 								
 								<td class="center span3">
+
+								{{ Form::open(['route'=>['internets.destroy', $internet->id], 'method'=>'delete']) }}	
+
 									<a class="btn btn-success" href="#" data-rel="tooltip" data-placement="top" data-original-title="View E-waste Management">
 										<i class="halflings-icon zoom-in halflings-icon"></i>  
 									</a>
 									<a class="btn btn-info" href="#" data-rel="tooltip" data-placement="top" data-original-title="Update/Edit">
 										<i class="halflings-icon edit halflings-icon"></i>  
 									</a>
-									<a class="btn btn-danger delete_btn" href="#" data-rel="tooltip" data-placement="top" data-original-title="Remove Data">
+									<button class="btn btn-danger delete_btn" href="#ash" data-rel="tooltip" data-placement="top" data-original-title="Remove Data">
 										<i class="halflings-icon trash halflings-icon"></i> 
-									</a>
+									</button>
+
+
+
 								</td>
 							</tr>
 							@endforeach

@@ -92,6 +92,15 @@
 		{{ HTML::script('js/custom.js') }}
 
 
+		<script type="text/javascript">
+			$(document).ready(function(){
+				/*$(".delete_btn").click(function(){
+					var continue = confirm('Are You Sure To delete the data? This action is Permanent');
+					// return false;
+				});*/
+			});
+		</script>
+
 		@yield('js')
 		
 	<!-- end: JavaScript-->
