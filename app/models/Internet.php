@@ -9,4 +9,9 @@ class Internet extends Eloquent {
 	{
 		return $this->belongsToMany('Service');
 	}
+
+	public function managements()
+	{
+		return $this->hasMany('Management');
+	}
 }

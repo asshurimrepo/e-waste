@@ -28,18 +28,19 @@
 								
 								<td class="center span3">
 
-								{{ Form::open(['route'=>['internets.destroy', $internet->id], 'method'=>'delete']) }}	
+								{{ Form::open(['route'=>['internets.destroy', $internet->id], 'method'=>'delete', 'style'=>'margin:0;']) }}	
 
-									<a class="btn btn-success" href="#" data-rel="tooltip" data-placement="top" data-original-title="View E-waste Management">
+									<a class="btn btn-success" href="{{ route('internets.managements.index', $internet->id) }}" data-rel="tooltip" data-placement="top" data-original-title="View E-waste Management">
 										<i class="halflings-icon zoom-in halflings-icon"></i>  
 									</a>
-									<a class="btn btn-info" href="#" data-rel="tooltip" data-placement="top" data-original-title="Update/Edit">
+									<a class="btn btn-info" href="{{ route('internets.edit', $internet->id) }}" data-rel="tooltip" data-placement="top" data-original-title="Update/Edit">
 										<i class="halflings-icon edit halflings-icon"></i>  
 									</a>
 									<button class="btn btn-danger delete_btn" href="#ash" data-rel="tooltip" data-placement="top" data-original-title="Remove Data">
 										<i class="halflings-icon trash halflings-icon"></i> 
 									</button>
 
+								{{ Form::close() }}
 
 
 								</td>

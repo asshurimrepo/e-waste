@@ -3,7 +3,11 @@
 	[
 		{
 			"follow_symlinks": true,
-			"path": "C:\\Program Files (x86)\\Ampps\\www\\e-waste-management"
+			"path": "."
+		},
+		{
+			"follow_symlinks": true,
+			"path": "C:\\Users\\Win 8\\Downloads\\acme-admin-template-WB0JLR295"
 		}
 	]
 }

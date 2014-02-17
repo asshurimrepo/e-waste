@@ -2,6 +2,11 @@
 
 class CategoriesController extends BaseController {
 
+	public function __construct()
+	{
+		Session::put('active', 'categories');
+	}
+
 	/**
 	 * Display a listing of the resource.
 	 *
@@ -9,7 +14,8 @@ class CategoriesController extends BaseController {
 	 */
 	public function index()
 	{
-        return View::make('categories.index');
+		$categories = category::all();
+        return View::make('categories.index', compact('categories'));
 	}
 
 	/**
@@ -29,7 +35,9 @@ class CategoriesController extends BaseController {
 	 */
 	public function store()
 	{
-		//
+		Category::create(Input::all());
+		return Redirect::back()->with('suc', 'New Category has been Added!');
+
 	}
 
 	/**
@@ -73,7 +81,9 @@ class CategoriesController extends BaseController {
 	 */
 	public function destroy($id)
 	{
-		//
+		Category::find($id)->delete();
+		return Redirect::back()->with('suc', 'Category has been removed!');
+
 	}
 
 }

@@ -62,7 +62,8 @@ class InternetsController extends BaseController {
 	 */
 	public function edit($id)
 	{
-        return View::make('internets.edit');
+		$internet = Internet::with('services')->find($id);
+        return View::make('internets.edit', compact('internet'));
 	}
 
 	/**
@@ -73,7 +74,11 @@ class InternetsController extends BaseController {
 	 */
 	public function update($id)
 	{
-		//
+		$internet_data = Input::except('services');
+		$i = Internet::find($id);
+		$i->update($internet_data);
+		$i->services()->sync(Input::get('services'));
+		return Redirect::back()->with('suc', 'Internet Info has been Updated!');
 	}
 
 	/**
@@ -84,7 +89,9 @@ class InternetsController extends BaseController {
 	 */
 	public function destroy($id)
 	{
-		//
+		Internet::find($id)->delete();
+		return Redirect::back()->with('suc', 'Internet Info has been Removed!');
+
 	}
 
 }
