@@ -15,16 +15,22 @@
 						<table class="table table-striped table-bordered bootstrap-datatable datatable">
 						  <thead>
 							  <tr>
+								  <th>Owner</th>
 								  <th>Trade Name</th>
+								  <th>Contact No.</th>
 								  <th>Address</th>
+								  <th>Services</th>
 								  <th>Actions</th>
 							  </tr>
 						  </thead>   
 						  <tbody>
 						  	@foreach($internets as $internet)
 						  	<tr>
+								<td>{{ $internet->owner }}</td>
 								<td>{{ $internet->trade_name }}</td>
+								<td>{{ $internet->contact_no }}</td>
 								<td class="center">{{ $internet->address }}</td>
+								<td>{{ implode(', ', $internet->services->lists('name')) }}</td>
 								
 								<td class="center span3">
 

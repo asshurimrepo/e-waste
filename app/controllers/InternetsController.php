@@ -14,7 +14,7 @@ class InternetsController extends BaseController {
 	 */
 	public function index()
 	{
-		$internets = Internet::orderBy('trade_name', 'asc')->get();
+		$internets = Internet::with('services')->orderBy('trade_name', 'asc')->get();
         return View::make('internets.index', compact('internets'));
 	}
 
