@@ -4,6 +4,118 @@
 		"selected_items":
 		[
 			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"numb",
+				"number_format"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"Cate",
+				"category"
+			],
+			[
+				"inter",
+				"internet"
+			],
+			[
+				"int",
+				"internet"
+			],
+			[
+				"mana",
+				"management"
+			],
+			[
+				"inte",
+				"internets"
+			],
+			[
+				"manage",
+				"management"
+			],
+			[
+				"mna",
+				"managements"
+			],
+			[
+				"ma",
+				"management"
+			],
+			[
+				"ca",
+				"categories"
+			],
+			[
+				"Input",
+				"Input-except	Input-except"
+			],
+			[
+				"manag",
+				"managements"
+			],
+			[
+				"te",
+				"technique"
+			],
+			[
+				"Ses",
+				"Session-put	Session-put"
+			],
+			[
+				"in",
+				"internet"
+			],
+			[
+				"Red",
+				"Redirect-back	Redirect-back"
+			],
+			[
+				"Inp",
+				"Input-except	Input-except"
+			],
+			[
+				"forea",
+				"foreach	blade-foreach"
+			],
+			[
+				"Session",
+				"Session-put	Session-put"
+			],
+			[
+				"Redi",
+				"Redirect-to	Redirect-to"
+			],
+			[
+				"HTM",
+				"HTML-script	HTML-script"
+			],
+			[
+				"HTML",
+				"HTML-style	HTML-style"
+			],
+			[
+				"Route",
+				"Route-group	Route-group"
+			],
+			[
 				"Redire",
 				"Redirect-to	Redirect-to"
 			],
@@ -68,10 +180,6 @@
 				"foreach	foreach …"
 			],
 			[
-				"for",
-				"for	for …"
-			],
-			[
 				"IN",
 				"Input-all	Input-all"
 			],
@@ -86,10 +194,6 @@
 			[
 				"belo",
 				"belongsTo"
-			],
-			[
-				"Inp",
-				"Input-only	Input-only"
 			],
 			[
 				"level",
@@ -114,10 +218,6 @@
 			[
 				"upda",
 				"updatedDocs"
-			],
-			[
-				"Input",
-				"Input-has	Input-has"
 			],
 			[
 				"I",
@@ -160,10 +260,6 @@
 				"Session-forget	Session-forget"
 			],
 			[
-				"Session",
-				"Session-put	Session-put"
-			],
-			[
 				"getMar",
 				"getMarkDone"
 			],
@@ -194,10 +290,6 @@
 			[
 				"l",
 				"line-height"
-			],
-			[
-				"ma",
-				"margin"
 			],
 			[
 				"c",
@@ -244,10 +336,6 @@
 				"print_r"
 			],
 			[
-				"co",
-				"color"
-			],
-			[
 				"font",
 				"font-size"
 			],
@@ -259,23 +347,187 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "app/views/internets/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 1182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/ReportsController.php",
+			"settings":
+			{
+				"buffer_size": 518,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/reports/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1960,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/models/Technique.php",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/acme_master.blade.php",
+			"settings":
+			{
+				"buffer_size": 2676,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/chart.html",
+			"settings":
+			{
+				"buffer_size": 22056,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/CategManagement.php",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/index.html",
+			"settings":
+			{
+				"buffer_size": 25525,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/InternetsController.php",
+			"settings":
+			{
+				"buffer_size": 1968,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/Internet.php",
+			"settings":
+			{
+				"buffer_size": 262,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 242.0,
 		"selected_items":
 		[
+			[
+				"mode",
+				"Laravel Generate: Model"
+			],
+			[
+				"view",
+				"Laravel Generate: View"
+			],
+			[
+				"con",
+				"Laravel Generate: Controller"
+			],
+			[
+				"model",
+				"Laravel Generate: Model"
+			],
+			[
+				"blade co",
+				"Snippet: blade-comment"
+			],
+			[
+				"blade com",
+				"Snippet: blade-comment"
+			],
+			[
+				"routes",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"route",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"migrat",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"seed",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"blad",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"migrate",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"migration",
+				"Laravel Generate: Migration"
+			],
+			[
+				"controller",
+				"Laravel Generate: Controller"
+			],
+			[
+				"controler",
+				"Laravel Generate: Controller"
+			],
+			[
+				"pivot",
+				"Laravel Generate: Pivot"
+			],
+			[
+				"resource",
+				"Laravel Generate: Resource"
+			],
+			[
+				"res",
+				"Laravel Generate: Resource"
+			],
+			[
+				"resour",
+				"Laravel Generate: Resource"
+			],
+			[
+				"resourc",
+				"Laravel Generate: Resource"
+			],
 			[
 				"com",
 				"Snippet: blade-comment"
 			],
 			[
 				"comme",
-				"Snippet: blade-comment"
-			],
-			[
-				"blade com",
 				"Snippet: blade-comment"
 			],
 			[
@@ -307,35 +559,11 @@
 				"Package Control: Install Package"
 			],
 			[
-				"model",
-				"Laravel Generate: Model"
-			],
-			[
-				"routes",
-				"Laravel Artisan: Routes"
-			],
-			[
-				"resource",
-				"Laravel Generate: Resource"
-			],
-			[
-				"route",
-				"Laravel Artisan: Routes"
-			],
-			[
 				"control",
 				"Laravel Generate: Controller"
 			],
 			[
-				"view",
-				"Laravel Generate: View"
-			],
-			[
 				"controll",
-				"Laravel Generate: Controller"
-			],
-			[
-				"con",
 				"Laravel Generate: Controller"
 			],
 			[
@@ -351,20 +579,8 @@
 				"Laravel Artisan: Migrate"
 			],
 			[
-				"migrate",
-				"Laravel Artisan: Migrate"
-			],
-			[
-				"mode",
-				"Laravel Generate: Model"
-			],
-			[
 				"MIGRATE",
 				"Laravel Artisan: Migrate"
-			],
-			[
-				"migrat",
-				"Laravel Generate: Migration"
 			],
 			[
 				"inst",
@@ -439,10 +655,6 @@
 				"Set Syntax: PHP - Laravel Blade"
 			],
 			[
-				"resour",
-				"Laravel Generate: Resource"
-			],
-			[
 				"set syntax: Bla",
 				"Set Syntax: PHP - Laravel Blade"
 			],
@@ -477,10 +689,6 @@
 			[
 				"igra",
 				"Laravel Generate: Migration"
-			],
-			[
-				"seed",
-				"Laravel Artisan: DB:Seed"
 			],
 			[
 				"m",
@@ -528,6 +736,114 @@
 	},
 	"file_history":
 	[
+		"/C/Program Files (x86)/Ampps/www/enrolment/includes/conf.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/public/js/custom.js",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/acme.blade.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/file-manager.html",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/About ME.txt",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/js/custom.js",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/phpseclib/phpseclib/tests/code_coverage_upload.sh",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/phpseclib/phpseclib/tests/code_coverage_id_rsa",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/swiftmailer/swiftmailer/lib/classes/Swift/KeyCache/KeyCacheInputStream.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nesbot/carbon/tests/IsTest.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/monolog/monolog/src/Monolog/Handler/CubeHandler.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/CategoriesController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/internets/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/InternetsController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/services/create.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/managements/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/categories/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/techniques/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/techniques/create.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/TechniquesController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/services/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/ServicesController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/categories/create.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/models/Category.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/swiftmailer/swiftmailer/create_pear_package.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/composer/ClassLoader.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/mustache/mustache/src/Mustache/Exception/RuntimeException.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/predis/predis/lib/Predis/ServerException.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/translation/Symfony/Component/Translation/Dumper/IniFileDumper.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/composer/installed.json",
+		"/C/Program Files (x86)/Ampps/www/e-waste/server.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nikic/php-parser/lib/PHPParser/Serializer.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/translation/Symfony/Component/Translation/Tests/fixtures/resources.ini",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/models/Service.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/css/ie.css",
+		"/C/Program Files (x86)/Ampps/www/e-waste/CONTRIBUTING.md",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/models/Technique.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/tests/TestCase.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/patchwork/utf8/class/Patchwork/Utf8/data/translit_extra.ser",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/table.html",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/ManagementsController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/phpseclib/phpseclib/tests/Math/BigInteger/TestCase.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/internets/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/ContainerAwareEventDispatcher.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/categories/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/command_astext.txt",
+		"/C/Program Files (x86)/Ampps/www/e-waste/composer.json",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/models/Internet.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/css-selector/Symfony/Component/CssSelector/Exception/InternalErrorException.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/index.html",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/models/Management.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/acme_master.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/managements/create.blade.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/form.html",
+		"/C/Program Files (x86)/Ampps/www/e-waste/public/css/style.css",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/managements/edit.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nikic/php-parser/test/code/prettyPrinter/namespaces.test",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/internets/create.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/routes.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/config/database.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nesbot/carbon/tests/DayOfWeekModifiersTest.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/double_base_change_redirect.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/MainController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/predis/predis/bin/create-pear",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/bin/classpreloader.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/laravel/framework/src/Illuminate/Support/NamespacedItemResolver.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/e-wate.sublime-project",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcher.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/symfony/event-dispatcher/Symfony/Component/EventDispatcher/EventDispatcherInterface.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/css/bootstrap.css",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/BitwiseOr.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/bin/boris",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/laravel/framework/src/Illuminate/Session/TokenMismatchException.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/acme/content.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/predis/predis/lib/Predis/ResponseObjectInterface.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/README.md",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/charset/from.x-mac-ce.ser",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/form_with_mixed_post_and_get.html",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nesbot/carbon/tests/TestingAidsTest.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/database/seeds/InternetsTableSeeder.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/main/index.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/config/app.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/acme/navbar.blade.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/MailInvoker.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/css/font-awesome-ie7.css",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/predis/predis/lib/Predis/Option/ClientOptions.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/swiftmailer/swiftmailer/test-suite/config.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nikic/php-parser/lib/PHPParser/NodeAbstract.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/css/noty_theme_default.css",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/composer/autoload_classmap.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/artisan",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/AuthController.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/models/User.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/database/seeds/UserTableSeeder.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/database/seeds/DatabaseSeeder.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/views/login.blade.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/login.html",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/filters.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/config/mail.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/laravel/framework/src/Illuminate/Database/Eloquent/MassAssignmentException.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/messages.html",
+		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/AuthController.php",
+		"/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/icon.html",
+		"/C/Program Files (x86)/Ampps/www/e-waste/vendor/nikic/php-parser/lib/PHPParser/Node/Expr/LogicalOr.php",
+		"/C/Program Files (x86)/Ampps/www/e-waste/app/controllers/HomeController.php",
 		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/examples/SimpleDebuggableConnection.php",
 		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/lib/swift_init.php",
 		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Student.php",
@@ -547,115 +863,7 @@
 		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/functions.php",
 		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/page-grand-opening.php",
 		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/page-planning-ahead.php",
-		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/header.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/ManageController.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Level.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/User.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/manage/request.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Requirement.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/composer.json",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/lib/Predis/Option/ClientOptions.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/admin/request.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/RequestItem.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/mustache/mustache/src/Mustache/Exception/LogicException.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Label.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Actions/ReturnValueAction.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Expression/ValueInterface.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/d11wtq/boris/lib/Boris/EvalWorker.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Config/EnvironmentVariables.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/eregistrar.sublime-project",
-		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/system/database/DB_cache.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/MockArraySessionStorage.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/application/views/admin/manage_accountant.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/mail.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Database/MySqlConnection.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/examples/MultipleSetAndGet.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/admin.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/AdminController.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/test/code/parser/expr/arrayDef.test",
-		"/C/Program Files (x86)/Ampps/www/cjrc/e-prescription/application/views/admin/view_report.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/index.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/neon.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/controllers/WindowsController.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/create.blade.php",
-		"/C/Program Files (x86)/Ampps/www/neon/neon/ui/panels/index.html",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/database/seeds/WindowsTableSeeder.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/withdoctype.xml",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/show.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/manage/requesttable.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/routes.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/filters.php",
-		"/C/Program Files (x86)/Ampps/www/noph/includes/config.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/routing/Symfony/Component/Routing/Tests/Fixtures/special_route_name.yml",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/yaymock/classes/Yay/Expectations/AtLeastExpectation.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Foundation/AliasLoader.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/artisan",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/laravel/framework/src/Illuminate/Exception/ExceptionDisplayerInterface.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/way/generators/src/Way/Generators/Generators/templates/migration/migration-down.txt",
-		"/C/Program Files (x86)/Ampps/www/cjrc/public/neon-x/assets/js/neon-login.js",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/doc/component/Lexer.markdown",
-		"/C/Program Files (x86)/Ampps/www/cjrc/public/neon-x/assets/js/jvectormap/jquery-jvectormap-us-ny-newyork-mill-en.js",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/ircmaxell/password-compat/test/Unit/PasswordNeedsRehashTest.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/doc/japanese.rst",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Adapter/PhpAdapter.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/phpunit.xml",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/phpseclib/phpseclib/phpseclib/openssl.cnf",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/packages/simpletest.org/test/package/one_section_with_autorum_php.xml",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Exception/OperationNotPermitedException.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/composer/autoload_namespaces.php",
-		"/C/Program Files (x86)/Ampps/www/neon/neon/tables/datatable/index.html",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/finder/Symfony/Component/Finder/Iterator/FilterIterator.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/docs/source/en/unit_test_documentation.xml",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nesbot/carbon/tests/DayOfWeekModifiersTest.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/database.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/lib/Predis/ResponseError.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/README.md",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nesbot/carbon/tests/SubTest.php",
-		"/C/Program Files (x86)/Ampps/www/neon/neon-x/assets/js/dataTables.bootstrap.js",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/console/Symfony/Component/Console/Tests/Fixtures/definition_astext.txt",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nesbot/carbon/tests/DiffTest.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/form_with_false_defaults.html",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/swiftmailer/swiftmailer/test-suite/lib/simpletest/test/site/form_with_unnamed_submit.html",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/windows/edit.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/views/themes/neon/sidebar-menu.blade.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/server.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/CacheWarmer/WarmableInterface.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/workbench.php",
-		"/C/Program Files (x86)/Ampps/www/neon/neon-x/assets/js/neon-custom.js",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/nikic/php-parser/lib/PHPParser/Node/Stmt/Static.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/bootstrap/start.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/config/remote.php",
-		"/C/Program Files (x86)/Ampps/www/cjrc/vendor/predis/predis/lib/Predis/Command/SetRemove.php",
-		"/c/users/win8~1/appdata/local/temp/sublime-svn-1391738507/SVN",
-		"/C/Program Files (x86)/Ampps/www/cjrc/app/models/Window.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/admin/word_filter.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/jquery/swfupload/fileprogress.js",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/includes/functions_integration.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/language/english/mails/sale_seller_notification.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/buy_out.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/blog-user.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/bid.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/language/english/mails/seller_relist_notification_multiple.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/sell_item.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/search.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/members_area.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/templates/members_area_bidding_invoices_received.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/blog/wp-mail.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/templates/content_page_multiple.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/pasture_roadtwo/templates/auction_details_new.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/includes/config.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/templates/members_area_messaging_received.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/blog/wp-admin/ms-edit.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/make_offer.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/auction_details_new.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/auction_details.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/pasture_roadtwo/templates/auction_details.tpl_original.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/pasture_roadtwo/templates/auction_details.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/modern_silver/templates/auction_details.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/modern_blue/templates/auction_details.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/classic_silver/templates/auction_details.tpl.php",
-		"/C/Program Files (x86)/Ampps/www/pastureroad/themes/classic_blue/templates/auction_details.tpl.php"
+		"/C/Users/Win 8/AppData/Local/Temp/fz3temp-1/header.php"
 	],
 	"find":
 	{
@@ -666,6 +874,7 @@
 		"height": 90.0,
 		"where_history":
 		[
+			"C:\\Program Files (x86)\\Ampps\\www\\e-waste",
 			"C:\\Program Files (x86)\\Ampps\\www\\pastureroad",
 			"C:\\xampp\\htdocs\\waterDistrict"
 		]
@@ -675,6 +884,24 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"pie char",
+			"flot",
+			"pie",
+			"chart",
+			"$c",
+			"categories",
+			"$c",
+			"categories",
+			"internet",
+			"$internet",
+			"Here settings can be configured...",
+			"setting",
+			"settings",
+			"timezone",
+			"active",
+			"actiive",
+			"chosen",
+			"chosesn",
 			"ahead",
 			"page-planning",
 			"				\n",
@@ -732,6 +959,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"$s",
+			"services",
+			"$t",
+			"techniques",
+			"$management",
 			"$seller",
 			"reasons",
 			"$r",
@@ -752,14 +984,328 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "app/views/internets/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/controllers/ReportsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								342,
+								342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/views/reports/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1960,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/Technique.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								180,
+								180
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/acme_master.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1420,
+								1424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/laravel-blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 905.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/chart.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18044,
+								18104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6146.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/models/CategManagement.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Win 8/Downloads/acme-admin-template-WB0JLR295/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25525,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17036,
+								22485
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 6081.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "app/controllers/InternetsController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1968,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								661,
+								661
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "app/models/Internet.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								124,
+								132
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 22.0
 	},
 	"input":
 	{
@@ -808,6 +1354,190 @@
 		"selected_items":
 		[
 			[
+				"acme_mas",
+				"e-waste\\app\\views\\acme_master.blade.php"
+			],
+			[
+				"acme",
+				"e-waste\\app\\views\\acme.blade.php"
+			],
+			[
+				"custom.js",
+				"e-waste\\public\\js\\custom.js"
+			],
+			[
+				"char",
+				"acme-admin-template-WB0JLR295\\chart.html"
+			],
+			[
+				"index",
+				"acme-admin-template-WB0JLR295\\index.html"
+			],
+			[
+				"route",
+				"e-waste\\app\\routes.php"
+			],
+			[
+				"inte",
+				"e-waste\\app\\models\\Internet.php"
+			],
+			[
+				"inter",
+				"e-waste\\app\\controllers\\InternetsController.php"
+			],
+			[
+				"inte/in",
+				"e-waste\\app\\views\\internets\\index.blade.php"
+			],
+			[
+				"ser/create.",
+				"e-waste\\app\\views\\services\\create.blade.php"
+			],
+			[
+				"ser/index",
+				"e-waste\\app\\views\\services\\index.blade.php"
+			],
+			[
+				"services",
+				"e-waste\\app\\controllers\\ServicesController.php"
+			],
+			[
+				"techniques/cre",
+				"e-waste\\app\\views\\techniques\\create.blade.php"
+			],
+			[
+				"tec/in",
+				"e-waste\\app\\views\\techniques\\index.blade.php"
+			],
+			[
+				"tech",
+				"e-waste\\app\\controllers\\TechniquesController.php"
+			],
+			[
+				"intener",
+				"e-waste\\app\\controllers\\InternetsController.php"
+			],
+			[
+				"cate/cr",
+				"e-waste\\app\\views\\categories\\create.blade.php"
+			],
+			[
+				"int/cre",
+				"e-waste\\app\\views\\internets\\create.blade.php"
+			],
+			[
+				"cate/in",
+				"e-waste\\app\\views\\categories\\index.blade.php"
+			],
+			[
+				"cate",
+				"e-waste\\app\\controllers\\CategoriesController.php"
+			],
+			[
+				"intn",
+				"e-waste\\app\\controllers\\InternetsController.php"
+			],
+			[
+				"mana",
+				"e-waste\\app\\controllers\\ManagementsController.php"
+			],
+			[
+				"mana/in",
+				"e-waste\\app\\views\\managements\\index.blade.php"
+			],
+			[
+				"mana/cra",
+				"e-waste\\app\\views\\managements\\create.blade.php"
+			],
+			[
+				"intern/edit",
+				"e-waste\\app\\views\\internets\\edit.blade.php"
+			],
+			[
+				"mana/edi",
+				"e-waste\\app\\views\\managements\\edit.blade.php"
+			],
+			[
+				"for",
+				"acme-admin-template-WB0JLR295\\form.html"
+			],
+			[
+				"form",
+				"acme-admin-template-WB0JLR295\\form.html"
+			],
+			[
+				"manage/create",
+				"e-waste\\app\\views\\managements\\create.blade.php"
+			],
+			[
+				"manage",
+				"e-waste\\app\\controllers\\ManagementsController.php"
+			],
+			[
+				"in/create.",
+				"e-waste\\app\\views\\internets\\create.blade.php"
+			],
+			[
+				"int/edit",
+				"e-waste\\app\\views\\internets\\edit.blade.php"
+			],
+			[
+				"int/ind",
+				"e-waste\\app\\views\\internets\\index.blade.php"
+			],
+			[
+				"routes",
+				"e-waste\\app\\routes.php"
+			],
+			[
+				"table",
+				"acme-admin-template-WB0JLR295\\table.html"
+			],
+			[
+				"internets/in",
+				"e-waste\\app\\views\\internets\\index.blade.php"
+			],
+			[
+				"interntc",
+				"e-waste\\app\\controllers\\InternetsController.php"
+			],
+			[
+				"main/ind",
+				"e-waste\\app\\views\\main\\index.blade.php"
+			],
+			[
+				"content",
+				"e-waste\\app\\views\\acme\\content.blade.php"
+			],
+			[
+				"navb",
+				"e-waste\\app\\views\\acme\\navbar.blade.php"
+			],
+			[
+				"form.",
+				"acme-admin-template-WB0JLR295\\form.html"
+			],
+			[
+				"main",
+				"e-waste\\app\\controllers\\MainController.php"
+			],
+			[
+				"login",
+				"acme-admin-template-WB0JLR295\\login.html"
+			],
+			[
+				"inde",
+				"acme-admin-template-WB0JLR295\\index.html"
+			],
+			[
+				"filter",
+				"app\\filters.php"
+			],
+			[
+				"app",
+				"app\\config\\app.php"
+			],
+			[
 				"side",
 				"cjrc\\app\\views\\themes\\neon\\sidebar-menu.blade.php"
 			],
@@ -844,10 +1574,6 @@
 				"cjrc\\app\\views\\manage\\request.blade.php"
 			],
 			[
-				"manage",
-				"cjrc\\app\\controllers\\ManageController.php"
-			],
-			[
 				"composer",
 				"cjrc\\composer.json"
 			],
@@ -870,14 +1596,6 @@
 			[
 				"docreq",
 				"cjrc\\app\\models\\DocReq.php"
-			],
-			[
-				"filter",
-				"cjrc\\app\\filters.php"
-			],
-			[
-				"routes",
-				"cjrc\\app\\routes.php"
 			],
 			[
 				"req",
@@ -946,10 +1664,6 @@
 			[
 				"filte",
 				"app\\filters.php"
-			],
-			[
-				"route",
-				"app\\routes.php"
 			],
 			[
 				"buyer_",
@@ -1120,10 +1834,6 @@
 				"search.php"
 			],
 			[
-				"inde",
-				"index.css"
-			],
-			[
 				"hm1",
 				"hm1.php"
 			],
@@ -1154,146 +1864,6 @@
 			[
 				"conf",
 				"includes\\config.php"
-			],
-			[
-				"lala",
-				"lala.PHP"
-			],
-			[
-				"hm5",
-				"hm5.php"
-			],
-			[
-				"logou",
-				"logout.php"
-			],
-			[
-				"hom",
-				"home.php"
-			],
-			[
-				"top_",
-				"includes\\top_head.php"
-			],
-			[
-				"login/",
-				"login\\request.php"
-			],
-			[
-				"d_",
-				"includes\\db_func.php"
-			],
-			[
-				"cofig",
-				"includes\\config.php"
-			],
-			[
-				"connec",
-				"login\\inc\\connection.php"
-			],
-			[
-				"check",
-				"check_signin.php"
-			],
-			[
-				"reque",
-				"login\\request.php"
-			],
-			[
-				"ajax",
-				"ajax\\ajaxCalculator.php"
-			],
-			[
-				"videochat",
-				"videochat\\index.html"
-			],
-			[
-				"s",
-				"check_signin.php"
-			],
-			[
-				"print",
-				"print.php"
-			],
-			[
-				"messag",
-				"message.php"
-			],
-			[
-				"edit",
-				"edit.php"
-			],
-			[
-				"ca",
-				"js\\calculator.js"
-			],
-			[
-				"calc",
-				"includes\\calculator.php"
-			],
-			[
-				"db_",
-				"includes\\db_func.php"
-			],
-			[
-				"entry",
-				"entry.php"
-			],
-			[
-				"top",
-				"includes\\top_head.php"
-			],
-			[
-				"dbf",
-				"includes\\db_func.php"
-			],
-			[
-				"ind",
-				"index.css"
-			],
-			[
-				"cal",
-				"includes\\calculator.php"
-			],
-			[
-				"ide",
-				"index.css"
-			],
-			[
-				"aja",
-				"ajax\\ajaxCalculator.php"
-			],
-			[
-				"cacl",
-				"js\\calculator.js"
-			],
-			[
-				"regis",
-				"register.php"
-			],
-			[
-				"sign",
-				"sign_up.php"
-			],
-			[
-				"hm5.",
-				"hm5.php"
-			],
-			[
-				"mess",
-				"message.php"
-			],
-			[
-				"signi",
-				"signin.php"
-			],
-			[
-				"cont",
-				"includes\\cont.php"
-			],
-			[
-				"mea",
-				"message.php"
 			]
 		],
 		"width": 0.0
@@ -1321,7 +1891,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 187.0,
+	"side_bar_width": 266.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

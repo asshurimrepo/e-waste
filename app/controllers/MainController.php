@@ -2,10 +2,7 @@
 
 class MainController extends BaseController {
 
-	public function __construct()
-	{
-		Session::put('active', '/');
-	}
+	
 
 	public function getIndex()
 	{

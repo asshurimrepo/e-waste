@@ -57,7 +57,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'e_waste_db',
 			'username'  => 'root',
-			'password'  => 'mysql',
+			'password'  => '',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
