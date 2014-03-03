@@ -26,7 +26,7 @@ class AuthController extends BaseController {
 			return Redirect::to('/');
 		}
 
-		return Redirect::back()->with('err','Username and Passwrod Did not match! </b>')->withInput();
+		return Redirect::to('auth/login')->with('err','Username and Passwrod Did not match! </b>')->withInput();
 
 	}
 
