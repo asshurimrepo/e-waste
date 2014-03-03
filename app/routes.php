@@ -13,6 +13,7 @@
 
 
 	Route::controller('auth', 'AuthController');
+	Route::controller('landing', 'LandingController');
 
 	Route::group(['before'=>'auth'], function(){
 

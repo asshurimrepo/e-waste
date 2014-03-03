@@ -18,7 +18,7 @@
 				<br />
 				<br />
 				<br />
-				<h1><center>{{ Setting::find(1)->site_name }}</center></h1>
+				<h1 style="color:#FFF;"><center>{{ Setting::find(1)->site_name }}</center></h1>
 
 
 				<div class="login-box" style="margin-top:25px;">

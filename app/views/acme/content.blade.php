@@ -5,7 +5,7 @@
 			<div id="sidebar-left" class="span1">
 				<div class="nav-collapse sidebar-nav">
 					<ul class="nav nav-tabs nav-stacked main-menu">
-					@foreach(Page::orderBy('order')->get() as $page)
+					@foreach(Page::orderBy('order')->where('ref','admin')->get() as $page)
 						<li {{ Session::get('active') == $page->route ? 'class="active"' : '' }}><a href="{{ url($page->route) }}"><i class="{{ $page->icon }}"></i><span class="hidden-tablet"> {{ $page->name }}</span></a></li>	
 					@endforeach
 					</ul>
