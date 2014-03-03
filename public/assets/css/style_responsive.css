@@ -1,0 +1,32 @@
+/* Portrait tablet to landscape and desktop */
+@media (max-width: 900px) { 
+	.nav-collapse .nav{float: left !important; margin-top: 40px !important; }
+	.service .desc { width: 55%}
+	.contact-form .input-xlarge {width: 200px !important}
+}
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {  
+	.nav-collapse .nav{float: left !important; margin-top: 40px !important; }
+	.service .desc { width: 55%}
+	#hero {
+		padding: 0px !important;
+	}
+	#hero .block {
+		margin-top: 0px !important;
+	}
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { 	
+	.nav-collapse .nav{float: left !important; margin-top: 40px !important;}
+	.service .desc { width: 60%}
+	#hero {
+		padding: 0px !important;
+	}
+	#hero .block {
+		margin-top: 0px !important;
+	}
+}
+
+
